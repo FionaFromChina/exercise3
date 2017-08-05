@@ -5,7 +5,7 @@
 * 全局安装 karma
 
 ```
-npm install -g karma-cli
+sudo npm install -g karma-cli
 ```
 
 * Fork 代码仓库并拉到本地
